@@ -1,2 +1,2 @@
-## Leetcode
+## InterviewBit
 A Quick Reference
